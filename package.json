@@ -1,0 +1,13 @@
+{
+  "name": "my-profile",
+  "version": "1.0.0",
+  "description": "김보희(Kim Bohee) 개인 프로필 웹사이트",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
